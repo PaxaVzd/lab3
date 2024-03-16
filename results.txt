@@ -10,3 +10,9 @@ Without Compound: 1120,00 UAH
 With Compound: 1126,83 UAH
 Without Compound: 1120,00 UAH
 With Compound: 1126,83 UAH
+Without Compound: 1000,00 UAH
+With Compound: 1082,71 UAH
+Without Compound: 1160,00 UAH
+With Compound: 1172,27 UAH
+Without Compound: 1000,00 UAH
+With Compound: 1061,52 UAH
